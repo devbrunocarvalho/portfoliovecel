@@ -124,7 +124,7 @@ body {
         content: "PROGRAMADOR";
     }
     41%, 60% {
-        content: "DESIGNER GRÁFICO";
+        content: "GRAPHIC DESIGNER    ";
     }
     61%, 80% {
         content: "MESTRE RPG";
@@ -293,7 +293,7 @@ body {
 
 }
 
-.grupo-form {
+.grupo-form {    
     margin-bottom: 1.5rem;
 }
 
@@ -322,4 +322,5 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 
